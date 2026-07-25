@@ -185,16 +185,6 @@ Good Bye
 
 ---
 
-## Project Structure
-
-```text
-.
-├── nanoshell.c
-└── README.md
-```
-
----
-
 ## Limitations
 
 * Supports one variable expansion per command.
